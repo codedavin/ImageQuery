@@ -1,0 +1,7 @@
+streamlit
+torch
+Pillow
+transformers
+chromadb
+langchain-core
+langchain-community

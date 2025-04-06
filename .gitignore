@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.cache/
+temp_image.jpg
+temp_audio.mp3
